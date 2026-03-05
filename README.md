@@ -6,12 +6,12 @@ The dashboard provides insights into revenue performance, supplier lead time, sh
 
 # Visualizations Used
 KPI Cards: Display key metrics such as revenue, profit, order performance, and total shipments. <br />
-Bar Charts: Used to compare supplier lead time and shipment quantities across suppliers.
-Donut / Pie Charts: Show distribution of inventory stock and shipment categories.
-Column Charts: Analyze shipment delays and supplier performance.
-Interactive Filters / Slicers: Allow users to filter and explore supply chain data dynamically.
+Bar Charts: Used to compare supplier lead time and shipment quantities across suppliers.<br />
+Donut / Pie Charts: Show distribution of inventory stock and shipment categories.<br />
+Column Charts: Analyze shipment delays and supplier performance.<br />
+Interactive Filters / Slicers: Allow users to filter and explore supply chain data dynamically.<br />
 
 # Key Features
-Created DAX measures to calculate important business KPIs.
-Designed interactive visualizations for better understanding of logistics performance.
-Enabled monitoring of supplier efficiency, inventory levels, and shipment delays.
+Created DAX measures to calculate important business KPIs.<br />
+Designed interactive visualizations for better understanding of logistics performance.<br />
+Enabled monitoring of supplier efficiency, inventory levels, and shipment delays.<br />
