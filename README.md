@@ -1,4 +1,4 @@
-# Supply-Chain-Logistics-Dashboard
+# Supply Chain & Logistics Dashboard
 This project presents an interactive Supply Chain & Logistics dashboard developed using Microsoft Power BI to monitor operational performance, supplier efficiency, and shipment trends. The dashboard helps visualize key supply chain metrics and supports data-driven decision making.
 
 # Dashboard Overview
