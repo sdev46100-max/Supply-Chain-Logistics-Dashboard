@@ -25,5 +25,5 @@ Perfect Order (%) : 75.29%<br />
 Total Shipment : 8k (thousand)<br />
 
 # Ripository Structure
-
+Dashboard : (https://github.com/sdev46100-max/Supply-Chain-Logistics-Dashboard/blob/main/LOGISTIC%20DASHBOARD.pbit)
  
