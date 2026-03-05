@@ -1,4 +1,4 @@
-<img width="1118" height="623" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/acbb729d-5c8b-4363-8c68-7a0455aaf0ed" /># Supply-Chain-Logistics-Dashboard
+# Supply-Chain-Logistics-Dashboard
 This project presents an interactive Supply Chain & Logistics dashboard developed using Microsoft Power BI to monitor operational performance, supplier efficiency, and shipment trends. The dashboard helps visualize key supply chain metrics and supports data-driven decision making.
 
 # Dashboard Overview
