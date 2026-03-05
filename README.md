@@ -15,3 +15,13 @@ Interactive Filters / Slicers: Allow users to filter and explore supply chain da
 Created DAX measures to calculate important business KPIs.<br />
 Designed interactive visualizations for better understanding of logistics performance.<br />
 Enabled monitoring of supplier efficiency, inventory levels, and shipment delays.<br />
+
+# Project highlights
+Gross Rvenue : 186.8 Million<br />
+Total Revenue : 176.9 Million<br />
+Profit : 48.5 Million<br />
+Profit Margin (%) : 27.44%<br />
+Perfect Order (%) : 75.29%<br />
+Total Shipment : 8k (thousand)<br />
+
+ 
