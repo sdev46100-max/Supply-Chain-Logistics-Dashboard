@@ -26,4 +26,4 @@ Total Shipment : 8k (thousand)<br />
 
 # Ripository Structure
 Dashboard : (https://github.com/sdev46100-max/Supply-Chain-Logistics-Dashboard/blob/main/LOGISTIC%20DASHBOARD.pbit)
- 
+Image : <img width="1118" height="623" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/128e1355-1dd2-45e3-978a-772aa23bed23" />
