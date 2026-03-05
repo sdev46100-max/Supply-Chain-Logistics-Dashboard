@@ -5,7 +5,7 @@ This project presents an interactive Supply Chain & Logistics dashboard develope
 The dashboard provides insights into revenue performance, supplier lead time, shipment status, and inventory distribution. It allows users to quickly understand logistics performance and identify potential delays in the supply chain.
 
 # Visualizations Used
-KPI Cards: Display key metrics such as revenue, profit, order performance, and total shipments.
+KPI Cards: Display key metrics such as revenue, profit, order performance, and total shipments. <br />
 Bar Charts: Used to compare supplier lead time and shipment quantities across suppliers.
 Donut / Pie Charts: Show distribution of inventory stock and shipment categories.
 Column Charts: Analyze shipment delays and supplier performance.
